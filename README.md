@@ -9,7 +9,7 @@ Using IXA pipes 1.1.1 tool, how to use the lemmatizer for Basque from Python.
 Karpetak IXA pipes-eko paketetik, lematizatzailea erabiltzeko behar diren atalak bakarrik ditu.
 This folder includes only parts of IXA pipes needed to lemmatize.
 
-IXA pipes-i buruzko info+ / info+ about IXA pipes: IXApipesREADME eta/and http://ixa2.si.ehu.es/ixa-pipes
+IXA pipes-i buruzko INFO+ about IXA pipes: IXApipesREADME eta/and http://ixa2.si.ehu.es/ixa-pipes
 
 
 #### ERRORE HAU DUT / I get this ERROR:
