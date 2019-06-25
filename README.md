@@ -21,6 +21,6 @@ bs4.FeatureNotFound: Couldn't find a tree builder with the features you requeste
 [sudo] pip3 install lxml
 ```
 
-**Gorka Urbizu**k HAP/LAP masterreko lan baterako erabilia eta hurrengo urteko ikasleei laguntzeko asmoz zabaldua. 
+**Gorka Urbizu**k HAP/LAP masterreko lan baterako erabilia eta hurrengo urteko ikasleei laguntzeko asmoz zabaldua. :star: 
 
 PD :exclamation: : eztet IXApipes-en lizentzie irakurri, hau zeozertako erabili ezkeo irakurri zazu  :innocent:
