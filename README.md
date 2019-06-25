@@ -7,7 +7,7 @@ IXA pipes 1.1.1 tresna erabiliz euskarazko lematizatzailea nola erabili Pythonet
 Using IXA pipes 1.1.1 tool, how to use the lemmatizer for Basque from Python.
 (This folder includes only parts of IXA pipes needed to lemmatize.)
 
-# ERABILERA / usage: lematize.py input.txt
+## ERABILERA / usage: lematize.py input.txt
 
 
 IXA pipes-i buruzko info+ / info+ about IXA pipes: 
@@ -15,17 +15,13 @@ IXA pipes-i buruzko info+ / info+ about IXA pipes:
 IXApipesREADME eta/and http://ixa2.si.ehu.es/ixa-pipes
 
 
-
-
-ERRORE HAU DUT / I get this ERROR:
+### ERRORE HAU DUT / I get this ERROR:
 
 bs4.FeatureNotFound: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
 
-KONPONBIDEA / Solution:
+#### KONPONBIDEA / Solution:
 
 [sudo] pip3 install lxml
-
-IXA pipes 1.1.1 release
 
 
 Gorka Urbizuk HAP/LAP masterreko lan baterako erabilia eta hurrengo urteko ikasleei laguntzeko asmoz zabaldua. 
