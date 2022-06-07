@@ -4,8 +4,10 @@ IXA pipes 1.1.1 tresna erabiliz euskarazko lematizatzailea nola erabili Pythonet
 
 Using IXA pipes 1.1.1 tool, how to use the lemmatizer for Basque from Python.
 
-## ERABILERA / usage: lematize.py input.txt
-
+## ERABILERA / usage: 
+```
+lematize.py input.txt
+```
 Karpetak IXA pipes-eko paketetik, lematizatzailea erabiltzeko behar diren atalak bakarrik ditu.
 This folder includes only parts of IXA pipes needed to lemmatize.
 
